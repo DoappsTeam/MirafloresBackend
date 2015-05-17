@@ -1,0 +1,24 @@
+extends ../layouts/layout
+
+block content
+  .three.column.row
+    .four.wide.column
+    .seven.wide.column
+      h4.ui.header
+      h3 Iniciar Sesion
+      form(role='form', action='/login2', method='post')
+        .ui.form.segment
+          .field
+            label Correo electronico
+            input(type='text', name='email', placeholder='ejemplo@hotmail.com')
+          .field
+            label Contraseña
+            input(type='password', name='password', placeholder='*******')
+          .field
+            button.ui.green.button(type='submit') Ingresar
+            //-.ui.yellow.button(onclick='javascript:this.parentNode.submit();') Ingresar
+      if loginFailed
+        .ui.bottom.attached.negative.message
+          i.icon.remove
+          | Las credenciales son incorrectas
+    .column

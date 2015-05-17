@@ -36,6 +36,9 @@
     },
     "geo": {
       "type": "GeoPoint"
+    },
+    "category": {
+      "type": "string"
     }
   },
   "validations": [],

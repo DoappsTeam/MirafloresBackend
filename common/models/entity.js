@@ -1,9 +1,10 @@
 module.exports = function(Entity) {
-  Entity.nearby = function(here, page, max, fn) {
+  Entity.nearby = function(here, page, max, category, fn) {
     if(typeof page === 'function') {
       fn = page;
       page = 0;
       max = 0;
+      category = "";
     }
 
     if(typeof max === 'function') {
@@ -13,11 +14,12 @@ module.exports = function(Entity) {
 
     var limit = 10;
     page = page || 0;
-    max = Number(max || 0.1);
-    // console.log('---->', page ,max);
+    max = Number(max || 1);
+    category = category || "";
 
-    Entity.find({
-      // find locations near the provided GeoPoint
+    // find entities near the provided GeoPoint
+    var condition = 
+    {
       where: {
         geo: {
           near: here,
@@ -25,7 +27,13 @@ module.exports = function(Entity) {
         }
       },
       include: 'events'
-    }, fn);
+    };
+
+    if(category != "") {
+      condition.where['category'] = category;
+    }
+
+    Entity.find(condition, fn);
   };
 
   // Fix 10 request per second
@@ -54,9 +62,10 @@ module.exports = function(Entity) {
     this.remoteMethod('nearby', {
       description: 'Find nearby entities around the geo point', 
       accepts: [
-        {arg: 'here', type: 'GeoPoint', required: true, description: 'geo location (lng, lat)'},
+        {arg: 'here', type: 'GeoPoint', required: true, description: 'geo location (lat, lng)'},
         {arg: 'page', type: 'Number', description: 'number of pages (10 default) '},
-        {arg: 'max', type: 'Number', description: 'Max distance in miles'}
+        {arg: 'max', type: 'Number', description: 'Max distance in miles'},
+        {arg: 'category', type: 'String', description: 'Category of entity'}
       ],
       returns: {arg: 'entities', root: true},
       http: { verb: 'GET' }

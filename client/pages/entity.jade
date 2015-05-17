@@ -1,0 +1,44 @@
+extends ../layouts/layoutDashboard
+
+block content
+  form(role='form', action='/entity', method='post')
+    .ui.form.segment(style='min-height: 8rem;')
+      .ui.top.blue.attached.label Agregar una entidad
+      .two.required.fields
+        .field
+          label Nombre Empresa
+          input(type='text', name='name')
+        .field
+          label Direccíón
+          input(type='text', name='address')
+      .two.required.fields
+        .field
+          label Teléfono
+          input(type='text', name='phone')
+        .field
+          label Correo electrónico
+          input(type='text', name='email')
+      .two.required.fields
+        .field
+          label Página Web
+          input(type='text', name='webpage')
+        .field
+          label Logo
+          input(type='text', name='urlLogo')
+      .two.required.fields
+        .field
+          label Fotografía de la entidad
+          input(type='text', name='urlBanner')
+        .field
+          label Categoría
+          input(type='text', name='category')
+      .two.required.fields
+        .field
+          label Latitud
+          input(type='text', name='lat')
+        .field
+          label Longituf
+          input(type='text', name='lng')
+      button.ui.submit.button(type='submit')
+          i.plus.icon
+          |  Agregar

@@ -4,8 +4,9 @@
     "address" : "Av. Jose Larco 770 ",
     "phone" : "(01) 6177266",
     "email" : "cultura@miraflores.gob.pe",
-    "urlLogo": "http://unsplash.it/200",
-    "urlBanner": "http://unsplash.it/300/150",
+    "urlLogo": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431882005/1_gav7nh.jpg",
+    "category": "cultural",
+    "urlBanner": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431884282/imagenes/1.jpg",
     "webpage" : "http://www.miraflores.gob.pe/_contenTempl1.asp?idpadre=4960&idhijo=5241&idcontenido=5242",
     "geo":
       {
@@ -18,8 +19,9 @@
     "address" : "Av. Jose Larco 450",
     "phone" : "(01) 6177264",
     "email" : "cultura@miraflores.gob.pe",
-    "urlLogo": "http://unsplash.it/200",
-    "urlBanner": "http://unsplash.it/300/150",
+    "urlLogo": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431882005/2_stpe0f.jpg",
+    "category": "cultural",
+    "urlBanner": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431884281/imagenes/2.jpg",
     "webpage" : "http://www.miraflores.gob.pe/_contenTempl1.asp?idpadre=4960&idhijo=5241&idcontenido=5243",
     "geo":
       {
@@ -32,8 +34,9 @@
     "address" : "Av. Ernesto Diez Canseco Cuadra 1",
     "phone" : "-",
     "email" : "parques@miraflores.gob.pe",
-    "urlLogo": "http://unsplash.it/200",
-    "urlBanner": "http://unsplash.it/300/150",
+    "urlLogo": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431882005/3_cokcdd.jpg",
+    "category": "parques",
+    "urlBanner": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431884281/imagenes/3.jpg",
     "webpage" : "www.miraflores.gob.pe",
     "geo":
       {
@@ -46,8 +49,9 @@
     "address" : "Diagonal",
     "phone" : "-",
     "email" : "parques@miraflores.gob.pe",
-    "urlLogo": "http://unsplash.it/200",
-    "urlBanner": "http://unsplash.it/300/150",
+    "urlLogo": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431882005/4_bbmfww.jpg",
+    "category": "parques",
+    "urlBanner": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431884282/imagenes/4.jpg",
     "webpage" : "www.miraflores.gob.pe",
     "geo":
       {
@@ -60,8 +64,9 @@
     "address" : "Av. Mariscal Oscar Benavides",
     "phone" : "-",
     "email" : "parques@miraflores.gob.pe",
-    "urlLogo": "http://unsplash.it/200",
-    "urlBanner": "http://unsplash.it/300/150",
+    "urlLogo": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431882005/5_xjkbcs.jpg",
+    "category": "parques",
+    "urlBanner": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431884282/imagenes/5.jpg",
     "webpage" : "www.miraflores.gob.pe",
     "geo":
       {
@@ -74,8 +79,9 @@
     "address" : "Av. Jose Larco 439",
     "phone" : "989042799",
     "email" : "ventacorporativa@ngr.com.pe",
-    "urlLogo": "http://unsplash.it/200",
-    "urlBanner": "http://unsplash.it/300/150",
+    "urlLogo": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431882005/6_fwgpxs.jpg",
+    "category": "restaurantes",
+    "urlBanner": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431884282/imagenes/6.jpg",
     "webpage" : "http://www.chinawok.com.pe/",
     "geo":
       {
@@ -88,8 +94,9 @@
     "address" : "Ernesto Diez Canseco 180",
     "phone" : "(01) 6523650",
     "email" : "contacto@pappas.pe",
-    "urlLogo": "http://unsplash.it/200",
-    "urlBanner": "http://unsplash.it/300/150",
+    "urlLogo": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431882006/7_m3ettz.jpg",
+    "category": "restaurantes",
+    "urlBanner": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431884282/imagenes/7.jpg",
     "webpage" : "http://pappas.pe/",
     "geo":
       {
@@ -102,8 +109,9 @@
     "address" : "Ernesto Diez Canseco 146",
     "phone" : "(01) 4454116",
     "email" : "contacto@tequilarock.com.pe",
-    "urlLogo": "http://unsplash.it/200",
-    "urlBanner": "http://unsplash.it/300/150",
+    "urlLogo": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431882006/8_v3hywl.jpg",
+    "category": "restaurantes",
+    "urlBanner": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431884282/imagenes/8.jpg",
     "webpage" : "http://www.tequilarock.com.pe/",
     "geo":
       {
@@ -116,8 +124,9 @@
     "address" : "Ernesto Diez Canseco",
     "phone" : "-",
     "email" : "flyingdoghostels@gmail.com",
-    "urlLogo": "http://unsplash.it/200",
-    "urlBanner": "http://unsplash.it/300/150",
+    "urlLogo": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431882006/9_fvfrse.jpg",
+    "category": "restaurantes",
+    "urlBanner": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431884282/imagenes/9.jpg",
     "webpage" : "http://www.flyingdogperu.com/",
     "geo":
       {
@@ -130,8 +139,9 @@
     "address" : "Calle Lima 351",
     "phone" : "(01) 241-6043",
     "email" : "cafedelapaz@sctdosdemayo.com",
-    "urlLogo": "http://unsplash.it/200",
-    "urlBanner": "http://unsplash.it/300/150",
+    "urlLogo": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431882006/10_suesvv.jpg",
+    "category": "restaurantes",
+    "urlBanner": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431884282/imagenes/10.jpg",
     "webpage" : "http://www.cafedelapazperu.com/",
     "geo":
       {
@@ -144,8 +154,9 @@
     "address" : "Av. Jose Larco 1036",
     "phone" : "-",
     "email" : "-",
-    "urlLogo": "http://unsplash.it/200",
-    "urlBanner": "http://unsplash.it/300/150",
+    "urlLogo": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431882006/11_d5jr0w.jpg",
+    "category": "cultural",
+    "urlBanner": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431884283/imagenes/11.jpg",
     "webpage" : "-",
     "geo":
       {
@@ -158,8 +169,9 @@
     "address" : "Calle 2 de Mayo 142",
     "phone" : "-",
     "email" : "-",
-    "urlLogo": "http://unsplash.it/200",
-    "urlBanner": "http://unsplash.it/300/150",
+    "urlLogo": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431882006/12_xtolxg.jpg",
+    "category": "cultural",
+    "urlBanner": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431884283/imagenes/12.jpg",
     "webpage" : "http://www.urp.edu.pe/ccoriwasi/",
     "geo":
       {
@@ -172,8 +184,9 @@
     "address" : "Jr. Bellavista 531 / Malecon Balta 740",
     "phone" : "(01) 6153636",
     "email" : "-",
-    "urlLogo": "http://unsplash.it/200",
-    "urlBanner": "http://unsplash.it/300/150",
+    "urlLogo": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431882006/13_aa3jgr.jpg",
+    "category": "cultural",
+    "urlBanner": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431884283/imagenes/13.jpg",
     "webpage" : "http://centrocultural.britanico.edu.pe/",
     "geo":
       {
@@ -186,8 +199,9 @@
     "address" : "Pasaje Porta 132",
     "phone" : "(01) 4440135",
     "email" : "teatro.julieta.33@facebook.com",
-    "urlLogo": "http://unsplash.it/200",
-    "urlBanner": "http://unsplash.it/300/150",
+    "urlLogo": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431882007/14_idupq2.jpg",
+    "category": "museos",
+    "urlBanner": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431884283/imagenes/14.jpg",
     "webpage" : "https://www.facebook.com/pages/Teatro-Julieta/201926309849606",
     "geo":
       {
@@ -200,8 +214,9 @@
     "address" : "Calle Bellavista 527",
     "phone" : "(01) 6153636",
     "email" : "-",
-    "urlLogo": "http://unsplash.it/200",
-    "urlBanner": "http://unsplash.it/300/150",
+    "urlLogo": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431882007/15_d3kqea.jpg",
+    "category": "museos",
+    "urlBanner": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431884283/imagenes/15.jpg",
     "webpage" : "www.britanico.edu.pe",
     "geo":
       {
@@ -214,8 +229,9 @@
     "address" : "Av. 28 de Julio 183",
     "phone" : "(01) 4457780",
     "email" : "-",
-    "urlLogo": "http://unsplash.it/200",
-    "urlBanner": "http://unsplash.it/300/150",
+    "urlLogo": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431882007/16_vluil5.jpg",
+    "category": "museos",
+    "urlBanner": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431884283/imagenes/16.jpg",
     "webpage" : "http://www.clubdeteatrodelima.com/",
     "geo":
       {
@@ -228,8 +244,9 @@
     "address" : "Av. General Suarez 409",
     "phone" : "(01) 4457347",
     "email" : "-",
-    "urlLogo": "http://unsplash.it/200",
-    "urlBanner": "http://unsplash.it/300/150",
+    "urlLogo": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431882007/17_wcyfdy.jpg",
+    "category": "museos",
+    "urlBanner": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431884284/imagenes/17.jpg",
     "webpage" : "https://www.facebook.com/teatromarsanoperu",
     "geo":
       {
@@ -242,8 +259,9 @@
     "address" : "Calle General Borgoño cuadra 8 S/n",
     "phone" : "(01) 6177148",
     "email" : "huacapucllana@miraflores.gob.pe",
-    "urlLogo": "http://unsplash.it/200",
-    "urlBanner": "http://unsplash.it/300/150",
+    "urlLogo": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431882007/18_lndrqw.jpg",
+    "category": "museos",
+    "urlBanner": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431884284/imagenes/18.jpg",
     "webpage" : "http://huacapucllanamiraflores.pe/",
     "geo":
       {
@@ -256,8 +274,9 @@
     "address" : "Calle Retiro 160",
     "phone" : "(01) 441-2909",
     "email" : "museo@fundacionmuseoamano.org.pe",
-    "urlLogo": "http://unsplash.it/200",
-    "urlBanner": "http://unsplash.it/300/150",
+    "urlLogo": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431882007/19_hsbsod.jpg",
+    "category": "museos",
+    "urlBanner": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431884284/imagenes/19.jpg",
     "webpage" : "www.fundacionmuseoamano.org.pe",
     "geo":
       {
@@ -270,8 +289,9 @@
     "address" : "Calle Libertad 130",
     "phone" : "(01) 2155593",
     "email" : "-",
-    "urlLogo": "http://unsplash.it/200",
-    "urlBanner": "http://unsplash.it/300/150",
+    "urlLogo": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431882007/20_zrffvj.jpg",
+    "category": "cultural",
+    "urlBanner": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431884284/imagenes/20.jpg",
     "webpage" : "http://www.fundacioneuroidiomas.com/",
     "geo":
       {
@@ -284,8 +304,9 @@
     "address" : "Av. Arequipa 4595",
     "phone" : "(01) 6108000",
     "email" : " informes@alianzafrancesa.org.pe",
-    "urlLogo": "http://unsplash.it/200",
-    "urlBanner": "http://unsplash.it/300/150",
+    "urlLogo": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431882007/21_bmtqsw.jpg",
+    "category": "cultural",
+    "urlBanner": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431884284/imagenes/21.jpg",
     "webpage" : "http://cultural.alianzafrancesa.org.pe/",
     "geo":
       {
@@ -298,8 +319,9 @@
     "address" : "Ramon Ribeyro 490",
     "phone" : "(01) 6177279",
     "email" : "-",
-    "urlLogo": "http://unsplash.it/200",
-    "urlBanner": "http://unsplash.it/300/150",
+    "urlLogo": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431882007/22_dv0mnn.jpg",
+    "category": "parques",
+    "urlBanner": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431884284/imagenes/22.jpg",
     "webpage" : "www.miraflores.gob.pe",
     "geo":
       {
@@ -312,8 +334,9 @@
     "address" : "Calle General Suarez 189",
     "phone" : "(01) 6177114",
     "email" : "-",
-    "urlLogo": "http://unsplash.it/200",
-    "urlBanner": "http://unsplash.it/300/150",
+    "urlLogo": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431882007/23_bkfzgq.jpg",
+    "category": "museos",
+    "urlBanner": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431884285/imagenes/23.jpg",
     "webpage" : "www.miraflores.gob.pe",
     "geo":
       {
@@ -326,8 +349,9 @@
     "address" : "Ramon Ribeyro 401",
     "phone" : "(01) 6177279",
     "email" : "-",
-    "urlLogo": "http://unsplash.it/200",
-    "urlBanner": "http://unsplash.it/300/150",
+    "urlLogo": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431882008/24_m8aff3.jpg",
+    "category": "museos",
+    "urlBanner": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431884285/imagenes/24.jpg",
     "webpage" : "www.miraflores.gob.pe",
     "geo":
       {
@@ -340,8 +364,9 @@
     "address" : "Parque Central",
     "phone" : "-",
     "email" : "-",
-    "urlLogo": "http://unsplash.it/200",
-    "urlBanner": "http://unsplash.it/300/150",
+    "urlLogo": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431882008/25_tabu0p.jpg",
+    "category": "atractivos",
+    "urlBanner": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431884285/imagenes/25.jpg",
     "webpage" : "-",
     "geo":
       {
@@ -354,8 +379,9 @@
     "address" : "Av. Angamos Oeste 120",
     "phone" : "(01) 7067000",
     "email" : "-",
-    "urlLogo": "http://unsplash.it/200",
-    "urlBanner": "http://unsplash.it/300/150",
+    "urlLogo": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431882008/26_ekoinl.jpg",
+    "category": "cultural",
+    "urlBanner": "http://res.cloudinary.com/drggnfl1o/image/upload/v1431884285/imagenes/26.jpg",
     "webpage" : "http://cultural.icpna.edu.pe/",
     "geo":
       {

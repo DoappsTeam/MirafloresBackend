@@ -1,0 +1,13 @@
+.one.column.row
+   .ui.right.floated.secondary.menu
+      //- if user is logged in
+      if user
+          .item #{user.firstName}
+          a.active.item Panel  
+          a.item Configuraci&oacute;n  
+          a(href="/logout?access_token=" + accessToken).item Salir
+   .ui.blue.dividing.header
+      i.inverted.blue.building.outline.icon
+      .content Municipalidad de Miraflores
+        .sub.header Panel de Administraci&oacute;n
+
