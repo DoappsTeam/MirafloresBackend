@@ -65,7 +65,7 @@ module.exports = function(Entity) {
         {arg: 'here', type: 'GeoPoint', required: true, description: 'geo location (lat, lng)'},
         {arg: 'page', type: 'Number', description: 'number of pages (10 default) '},
         {arg: 'max', type: 'Number', description: 'Max distance in miles'},
-        {arg: 'category', type: 'String', description: 'Category of entity'}
+        {arg: 'category', type: 'string', description: 'Category of entity'}
       ],
       returns: {arg: 'entities', root: true},
       http: { verb: 'GET' }
