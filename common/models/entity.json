@@ -16,10 +16,10 @@
     "name": {
       "type": "string"
     },
-    "phone": {
+    "address": {
       "type": "string"
     },
-    "address": {
+    "phone": {
       "type": "string"
     },
     "latLng": {
@@ -33,15 +33,13 @@
     },
     "urlLogo": {
       "type": "string"
+    },
+    "typeEntity": {
+      "type": "string"
     }
   },
   "validations": [],
   "relations": {
-    "entityType": {
-      "type": "belongsTo",
-      "model": "EntityType",
-      "foreignKey": "entityTypeId"
-    },
     "events": {
       "type": "hasMany",
       "model": "Event",

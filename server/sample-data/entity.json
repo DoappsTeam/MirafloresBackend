@@ -1,13 +1,13 @@
 [
   {
-    "address": "MLCN DE LA RESERVA",
     "name": "FASHION CENTER S.A. 610",
-    "latLng": "-12.131610, -77.030694",
+    "address": "MLCN DE LA RESERVA",
     "phone": "956557035",
+    "latLng": "-12.131610, -77.030694",
     "email": "company@gmail.com",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "80"
+    "typeEntity": "Restaurante"
   },
   {
     "address": "CALL RETIRO",
@@ -17,7 +17,7 @@
     "email": "company@gmail.com",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "80"
+    "typeEntity": "Restaurante"
   },
   {
     "address": "AV. JOSE A. LARCO",
@@ -27,7 +27,7 @@
     "email": "company@gmail.com",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "80"
+    "typeEntity": "Restaurante"
   },
   {
     "address": "AV. JOSE A. LARCO",
@@ -37,7 +37,7 @@
     "email": "company@gmail.com",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "80"
+    "typeEntity": "Restaurante"
   },
   {
     "address": "AV. LA PAZ",
@@ -47,7 +47,7 @@
     "email": "company@gmail.com",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "80"
+    "typeEntity": "Restaurante"
   },
   {
     "address": "AV. PETIT THOUARS",
@@ -57,7 +57,7 @@
     "email": "company@gmail.com",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "80"
+    "typeEntity": "Restaurante"
   },
   {
     "address": "CALL GENERAL SUAREZ",
@@ -67,7 +67,7 @@
     "email": "company@gmail.com",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "80"
+    "typeEntity": "Restaurante"
   },
   {
     "address": "MLCN DE LA RESERVA",
@@ -77,7 +77,7 @@
     "email": "company@gmail.com",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "80"
+    "typeEntity": "Restaurante"
   },
   {
     "address": "CALL MARTIR JOSE OLAYA",
@@ -87,7 +87,7 @@
     "email": "company@gmail.com",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "80"
+    "typeEntity": "Restaurante"
   },
   {
     "address": "PSJE PORTA",
@@ -97,7 +97,7 @@
     "email": "company@gmail.com",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "80"
+    "typeEntity": "Restaurante"
   },
   {
     "address": "AV. GRAU",
@@ -107,7 +107,7 @@
     "email": "company@gmail.com",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "80"
+    "typeEntity": "Restaurante"
   },
   {
     "address": "AV. JOSE PARDO",
@@ -117,7 +117,7 @@
     "email": "company@gmail.com",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "80"
+    "typeEntity": "Restaurante"
   },
   {
     "address": "AV. MCAL. OSCAR R. BENAVIDES",
@@ -127,7 +127,7 @@
     "email": "company@gmail.com",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "80"
+    "typeEntity": "Restaurante"
   },
   {
     "address": "AV. SANTA CRUZ",
@@ -137,7 +137,7 @@
     "email": "company@gmail.com",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "80"
+    "typeEntity": "Restaurante"
   },
   {
     "address": "CALL FRANCIA",
@@ -147,7 +147,7 @@
     "email": "company@gmail.com",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "80"
+    "typeEntity": "Restaurante"
   },
   {
     "address": "CALL GENERAL VARGAS MACHUCA",
@@ -157,7 +157,7 @@
     "email": "company@gmail.com",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "80"
+    "typeEntity": "Restaurante"
   },
   {
     "address": "MLCN DE LA RESERVA",
@@ -167,7 +167,7 @@
     "email": "company@gmail.com",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "80"
+    "typeEntity": "Restaurante"
   },
   {
     "name" : "Chifa Fu Jou",
@@ -177,7 +177,7 @@
     "latLng": "-12.118966, -77.032295",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "81"
+    "typeEntity": "Restaurante"
   },
   {
     "name" : "China Wok",
@@ -187,7 +187,7 @@
     "latLng": "-12.121758, -77.028937",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "81"
+    "typeEntity": "Restaurante"
   },
   {
     "name" : "Madame Tusan",
@@ -197,7 +197,7 @@
     "latLng": "-12.111468, -77.037656",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "81"
+    "typeEntity": "Restaurante"
   },
   {
     "name" : "Pak Fok",
@@ -207,7 +207,7 @@
     "latLng": "-12.131610, -77.030694",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "81"
+    "typeEntity": "Restaurante"
   },
   {
     "name" : "Oriental Wa Lok",
@@ -217,7 +217,7 @@
     "latLng": "-12.114015, -77.035683",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "81"
+    "typeEntity": "Restaurante"
   },
   {
     "name" : "Kam Mey My",
@@ -227,7 +227,7 @@
     "latLng": "-12.126260, -77.016948",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "81"
+    "typeEntity": "Restaurante"
   },
   {
     "name" : "Kuo Wha",
@@ -237,7 +237,7 @@
     "latLng": "-12.115538, -77.026538",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "81"
+    "typeEntity": "Restaurante"
   },
   {
     "name" : "Ono Sushi Bar",
@@ -247,7 +247,7 @@
     "latLng": "-12.129627, -77.024167",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "81"
+    "typeEntity": "Restaurante"
   },
   {
     "name" : "Chifa Express",
@@ -257,7 +257,7 @@
     "latLng": "-12.117808, -77.035092",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "81"
+    "typeEntity": "Restaurante"
   },
   {
     "name" : "Fu Jou chinese restaurant",
@@ -267,7 +267,7 @@
     "latLng": "-12.118983, -77.032297",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "81"
+    "typeEntity": "Restaurante"
   },
   {
     "name" : "Sentori Sushi",
@@ -277,7 +277,7 @@
     "latLng": "-12.120060, -77.034897",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "81"
+    "typeEntity": "Restaurante"
   },
   {
     "name" : "Bembos",
@@ -287,7 +287,7 @@
     "latLng": "-12.120065, -77.034899",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "81"
+    "typeEntity": "Restaurante"
   },
   {
     "name" : "Super Rueda",
@@ -297,7 +297,7 @@
     "latLng": "-12.118786, -77.041329",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "81"
+    "typeEntity": "Restaurante"
   },
   {
     "name" : "Dulcinea",
@@ -307,7 +307,7 @@
     "latLng": "-12.116949, -77.038014",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "81"
+    "typeEntity": "Restaurante"
   },
   {
     "name" : "La Lucha Sangucheria",
@@ -317,7 +317,7 @@
     "latLng": "-12.121026, -77.030334",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "81"
+    "typeEntity": "Restaurante"
   },
   {
     "name" : "Angus Meat Market",
@@ -327,7 +327,7 @@
     "latLng": "-12.128458, -77.018043",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "81"
+    "typeEntity": "Restaurante"
   },
   {
     "name" : "La Vaca Loca Rosenda",
@@ -337,7 +337,7 @@
     "latLng": "-12.131610, -77.030694",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "81"
+    "typeEntity": "Restaurante"
   },
   {
     "name" : "Carnal",
@@ -347,7 +347,7 @@
     "latLng": "-12.113505, -77.034731",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "81"
+    "typeEntity": "Restaurante"
   },
   {
     "name" : "Cuarto y Mitad",
@@ -357,7 +357,7 @@
     "latLng": "-12.111223, -77.036976",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "81"
+    "typeEntity": "Restaurante"
   },
   {
     "name" : "El Parrillon",
@@ -367,7 +367,7 @@
     "latLng": "-12.131610, -77.030694",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "81"
+    "typeEntity": "Restaurante"
   },
   {
     "name" : "Friday's",
@@ -377,7 +377,7 @@
     "latLng": "-12.110659, -77.037320",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "81"
+    "typeEntity": "Restaurante"
   },
   {
     "name" : "Tonny Romas",
@@ -387,7 +387,7 @@
     "latLng": "-12.131610, -77.030694",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "81"
+    "typeEntity": "Restaurante"
   },
   {
     "name" : "La Tranquera",
@@ -397,7 +397,7 @@
     "latLng": "-12.119263, -77.031711",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "81"
+    "typeEntity": "Restaurante"
   },
   {
     "name" : "Pappa S",
@@ -407,7 +407,7 @@
     "latLng": "-12.122386, -77.029368",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "81"
+    "typeEntity": "Restaurante"
   },
   {
     "name" : "El Parrillon de Pablo Profumo",
@@ -417,7 +417,7 @@
     "latLng": "-12.128128, -77.026106",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "81"
+    "typeEntity": "Restaurante"
   },
   {
     "name" : "Wallqa",
@@ -427,7 +427,7 @@
     "latLng": "-12.131277, -77.025619",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "81"
+    "typeEntity": "Restaurante"
   },
   {
     "name" : "Café Colombia en Perú",
@@ -437,7 +437,7 @@
     "latLng": "-12.123789, -77.027377",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "81"
+    "typeEntity": "Restaurante"
   },
   {
     "name" : "El 10",
@@ -447,7 +447,7 @@
     "latLng": "-12.108558, -77.029524",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "81"
+    "typeEntity": "Restaurante"
   },
   {
     "name" : "Rasson",
@@ -457,7 +457,7 @@
     "latLng": "-12.111633, -77.048593",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "81"
+    "typeEntity": "Restaurante"
   },
   {
     "name" : "Panchita Parrilla Peruana",
@@ -467,7 +467,7 @@
     "latLng": "-12.117917, -77.031340",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "81"
+    "typeEntity": "Restaurante"
   },
   {
     "name" : "Embarcadero 41",
@@ -477,7 +477,7 @@
     "latLng": "-12.115583, -77.043145",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "81"
+    "typeEntity": "Restaurante"
   },
   {
     "name" : "El Kapallac",
@@ -487,7 +487,7 @@
     "email" : "elkapallaqrestaurant@hotmail.com",
     "webpage": "http://company.com",
     "urlLogo": "http://company.com/logo.png",
-    "entityTypeId": "81"
+    "typeEntity": "Restaurante"
   },
 {
   "name" : "Fiesta Restaurant Gourmet", 
@@ -497,7 +497,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "La Vista", 
@@ -507,7 +507,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "Saqra", 
@@ -517,7 +517,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "Montecristo", 
@@ -527,7 +527,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "La Rosa Náutica", 
@@ -537,7 +537,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "Astrid & Gastón", 
@@ -547,7 +547,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "Manifiesto", 
@@ -557,7 +557,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "Scena", 
@@ -567,7 +567,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "El Mingao", 
@@ -577,7 +577,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "Donde Mario", 
@@ -587,7 +587,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "Corrientes 348", 
@@ -597,7 +597,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "Arugula", 
@@ -607,7 +607,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "Zimmerman", 
@@ -617,7 +617,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "Los Bachiche", 
@@ -627,7 +627,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "Mi causa", 
@@ -637,7 +637,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "Las Tejas", 
@@ -647,7 +647,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "La Traviata", 
@@ -657,7 +657,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "Donatello", 
@@ -667,7 +667,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "Ristorante IL Postino", 
@@ -677,7 +677,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "El Señorio de Sulco", 
@@ -687,7 +687,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "El Rocoto", 
@@ -697,7 +697,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "Morsi & Sorsi Ristorante Italiano", 
@@ -707,7 +707,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "Tony Roma's", 
@@ -717,7 +717,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "Morelia", 
@@ -727,7 +727,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "La eñe", 
@@ -737,7 +737,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "Mantra Indian Cuisine", 
@@ -747,7 +747,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "Il Forno Trattoria", 
@@ -757,7 +757,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "Sinfonía", 
@@ -767,7 +767,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "Papyrus Restaurant", 
@@ -777,7 +777,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "Harry s Fuente de Soda", 
@@ -787,7 +787,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "Restaurante Fanny Conroy", 
@@ -797,7 +797,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "Vivaldino", 
@@ -807,7 +807,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "La Plazita", 
@@ -817,7 +817,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "Crepes & Waffles", 
@@ -827,7 +827,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "Café de la Paz", 
@@ -837,7 +837,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "Nathano's Café", 
@@ -847,7 +847,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "Kumas Café", 
@@ -857,7 +857,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "Amaz", 
@@ -867,7 +867,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "Factoria 1075", 
@@ -877,7 +877,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "El Patio de Mendiburu", 
@@ -887,7 +887,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "Rigoletto", 
@@ -897,7 +897,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "Fettuccini", 
@@ -907,7 +907,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "La Nacional", 
@@ -917,7 +917,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "El Bodegón", 
@@ -927,7 +927,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "Rodrigo", 
@@ -937,7 +937,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "Arugula", 
@@ -947,7 +947,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "Barcelona 360", 
@@ -957,7 +957,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "Maki Sushi", 
@@ -967,7 +967,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "Magma Sushi Lounge", 
@@ -977,7 +977,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "Mr. Sushi", 
@@ -987,7 +987,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "Ache", 
@@ -997,7 +997,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "Maido", 
@@ -1007,7 +1007,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 },
 {
   "name" : "Sukha", 
@@ -1017,7 +1017,7 @@
   "email" : "elkapallaqrestaurant@hotmail.com",
   "webpage": "http://company.com",
   "urlLogo": "http://company.com/logo.png",
-  "entityTypeId": "81"
+  "typeEntity": "Restaurante"
 }
 
 ]

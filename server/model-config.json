@@ -26,19 +26,11 @@
     "dataSource": "db",
     "public": false
   },
-  "EntityType": {
-    "dataSource": "db",
-    "public": true
-  },
   "Entity": {
     "dataSource": "db",
     "public": true
   },
   "Event": {
-    "dataSource": "db",
-    "public": true
-  },
-  "Category": {
     "dataSource": "db",
     "public": true
   }

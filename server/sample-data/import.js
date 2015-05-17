@@ -1,13 +1,9 @@
 var async = require('async');
 
-var categorys = require('./category.json');
-var entityTypes = require('./entity-type.json');
 var entitys = require('./entity.json');
 var events = require('./event.json');
 
 module.exports = function(app, cb) {
-  var Category = app.models.Category;
-  var EntityType = app.models.EntityType;
   var Entity = app.models.Entity;
   var Event = app.models.Event;
 
@@ -36,8 +32,6 @@ module.exports = function(app, cb) {
       db.autoupdate(cb);
     },
     
-    importData.bind(null, Category, categorys),
-    importData.bind(null, EntityType, entityTypes),
     importData.bind(null, Entity, entitys),
     importData.bind(null, Event, events)
 

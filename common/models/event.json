@@ -16,20 +16,17 @@
     "name": {
       "type": "string"
     },
-    "address": {
-      "type": "string"
-    },
-    "latLng": {
-      "type": "string"
-    },
     "dateBegin": {
       "type": "date"
     },
     "dateEnd": {
       "type": "date"
     },
-    "banner": {
+    "urlBanner": {
       "type": "string"
+    },
+    "price": {
+      "type": "number"
     }
   },
   "validations": [],
@@ -38,11 +35,6 @@
       "type": "belongsTo",
       "model": "Entity",
       "foreignKey": "entityId"
-    },
-    "category": {
-      "type": "belongsTo",
-      "model": "Category",
-      "foreignKey": "categoryId"
     }
   },
   "acls": [],
