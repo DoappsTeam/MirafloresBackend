@@ -13,18 +13,18 @@ module.exports = function(Entity) {
 
     var limit = 10;
     page = page || 0;
-    max = Number(max || 100000);
+    max = Number(max || 0.1);
+    // console.log('---->', page ,max);
 
     Entity.find({
       // find locations near the provided GeoPoint
       where: {
         geo: {
           near: here,
-          maxDIstance: max
+          maxDistance: max
         }
       },
-      skip: limit * page,
-      limit: limit
+      include: 'events'
     }, fn);
   };
 
