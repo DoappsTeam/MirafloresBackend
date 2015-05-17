@@ -1,0 +1,50 @@
+{
+  "name": "Event",
+  "base": "PersistedModel",
+  "idInjection": false,
+  "options": {
+    "mongodb": {
+      "collection": "event"
+    }
+  },
+  "properties": {
+    "id": {
+      "type": "string",
+      "id": true,
+      "length": 20
+    },
+    "name": {
+      "type": "string"
+    },
+    "address": {
+      "type": "string"
+    },
+    "latLng": {
+      "type": "string"
+    },
+    "dateBegin": {
+      "type": "date"
+    },
+    "dateEnd": {
+      "type": "date"
+    },
+    "banner": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {
+    "entity": {
+      "type": "belongsTo",
+      "model": "Entity",
+      "foreignKey": "entityId"
+    },
+    "category": {
+      "type": "belongsTo",
+      "model": "Category",
+      "foreignKey": "categoryId"
+    }
+  },
+  "acls": [],
+  "methods": []
+}

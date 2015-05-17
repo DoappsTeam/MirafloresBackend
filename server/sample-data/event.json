@@ -1,0 +1,32 @@
+[
+  {
+    "name": "XX",
+    "address": "XX",
+    "latLng": "XX",
+    "dateBegin": "2016-03-10T16:17:35.896Z",
+    "dateEnd": "2016-03-10T16:17:35.896Z",
+    "banner": "XX",
+    "entityId": "80",
+    "categoryId": "80"
+  },
+  {
+    "name": "YY",
+    "address": "YY",
+    "latLng": "YY",
+    "dateBegin": "2016-03-10T16:17:35.896Z",
+    "dateEnd": "2016-03-10T16:17:35.896Z",
+    "banner": "YY",
+    "entityId": "80",
+    "categoryId": "81"
+  },
+  {
+    "name": "ZZ",
+    "address": "ZZ",
+    "latLng": "ZZ",
+    "dateBegin": "2016-03-10T16:17:35.896Z",
+    "dateEnd": "2016-03-10T16:17:35.896Z",
+    "banner": "ZZ",
+    "entityId": "81",
+    "categoryId": "81"
+  }
+]

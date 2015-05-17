@@ -1,0 +1,30 @@
+{
+  "name": "EntityType",
+  "base": "PersistedModel",
+  "idInjection": false,
+  "options": {
+    "mongodb": {
+      "collection": "entitytype"
+    }
+  },
+  "properties": {
+    "id": {
+      "type": "string",
+      "id": true,
+      "length": 20
+    },
+    "name": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {
+    "entities": {
+      "type": "hasMany",
+      "model": "Entity",
+      "foreignKey": "entityTypeId"
+    }
+  },
+  "acls": [],
+  "methods": []
+}

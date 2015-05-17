@@ -1,0 +1,53 @@
+{
+  "name": "Entity",
+  "base": "PersistedModel",
+  "idInjection": false,
+  "options": {
+    "mongodb": {
+      "collection": "entity"
+    }
+  },
+  "properties": {
+    "id": {
+      "type": "string",
+      "id": true,
+      "length": 20
+    },
+    "name": {
+      "type": "string"
+    },
+    "phone": {
+      "type": "string"
+    },
+    "address": {
+      "type": "string"
+    },
+    "latLng": {
+      "type": "string"
+    },
+    "email": {
+      "type": "string"
+    },
+    "webpage": {
+      "type": "string"
+    },
+    "urlLogo": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {
+    "entityType": {
+      "type": "belongsTo",
+      "model": "EntityType",
+      "foreignKey": "entityTypeId"
+    },
+    "events": {
+      "type": "hasMany",
+      "model": "Event",
+      "foreignKey": "entityId"
+    }
+  },
+  "acls": [],
+  "methods": []
+}
