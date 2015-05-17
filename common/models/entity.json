@@ -22,9 +22,6 @@
     "phone": {
       "type": "string"
     },
-    "latLng": {
-      "type": "string"
-    },
     "email": {
       "type": "string"
     },
@@ -34,8 +31,11 @@
     "urlLogo": {
       "type": "string"
     },
-    "typeEntity": {
+    "urlBanner": {
       "type": "string"
+    },
+    "geo": {
+      "type": "GeoPoint"
     }
   },
   "validations": [],

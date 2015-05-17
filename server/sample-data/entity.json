@@ -1,1023 +1,366 @@
 [
   {
-    "name": "FASHION CENTER S.A. 610",
-    "address": "MLCN DE LA RESERVA",
-    "phone": "956557035",
-    "latLng": "-12.131610, -77.030694",
-    "email": "company@gmail.com",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
+    "name" : "Centro Cultural Ricardo Palma",
+    "address" : "Av. Jose Larco 770 ",
+    "phone" : "(01) 6177266",
+    "email" : "cultura@miraflores.gob.pe",
+    "urlLogo": "http://unsplash.it/200",
+    "urlBanner": "http://unsplash.it/300/150",
+    "webpage" : "http://www.miraflores.gob.pe/_contenTempl1.asp?idpadre=4960&idhijo=5241&idcontenido=5242",
+    "geo":
+      {
+      "lat" : -12.125381,
+      "lng" : -77.029767
+      }
   },
   {
-    "address": "CALL RETIRO",
-    "name": "FUNDACION MUSEO AMANO 156",
-    "latLng": "-12.114106, -77.040900",
-    "phone": "956557035",
-    "email": "company@gmail.com",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
+    "name" : "Sala Luis Miro Quesada",
+    "address" : "Av. Jose Larco 450",
+    "phone" : "(01) 6177264",
+    "email" : "cultura@miraflores.gob.pe",
+    "urlLogo": "http://unsplash.it/200",
+    "urlBanner": "http://unsplash.it/300/150",
+    "webpage" : "http://www.miraflores.gob.pe/_contenTempl1.asp?idpadre=4960&idhijo=5241&idcontenido=5243",
+    "geo":
+      {
+      "lat" : -12.122274,
+      "lng" : -77.029187
+      }
   },
   {
-    "address": "AV. JOSE A. LARCO",
-    "name": "LOPEZ LOZANO JAIME 1036",
-    "latLng": "-12.128118, -77.029928",
-    "phone": "956557035",
-    "email": "company@gmail.com",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
+    "name" : "Parque Raúl Porras Barrenechea",
+    "address" : "Av. Ernesto Diez Canseco Cuadra 1",
+    "phone" : "-",
+    "email" : "parques@miraflores.gob.pe",
+    "urlLogo": "http://unsplash.it/200",
+    "urlBanner": "http://unsplash.it/300/150",
+    "webpage" : "www.miraflores.gob.pe",
+    "geo":
+      {
+      "lat" : -12.122046,
+      "lng" : -77.029581
+      }
   },
   {
-    "address": "AV. JOSE A. LARCO",
-    "name": "SAMOHOD ROMERO DALMACIA 1150",
-    "latLng": "-12.129061, -77.029744",
-    "phone": "956557035",
-    "email": "company@gmail.com",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
+    "name" : "Parque Central de Miraflores",
+    "address" : "Diagonal",
+    "phone" : "-",
+    "email" : "parques@miraflores.gob.pe",
+    "urlLogo": "http://unsplash.it/200",
+    "urlBanner": "http://unsplash.it/300/150",
+    "webpage" : "www.miraflores.gob.pe",
+    "geo":
+      {
+      "lat" : -12.120619,
+      "lng" : -77.029628
+      }
   },
   {
-    "address": "AV. LA PAZ",
-    "name": "JAZZ INC. S.A.C. 656",
-    "latLng": "-12.124029, -77.027080",
-    "phone": "956557035",
-    "email": "company@gmail.com",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
+    "name" : "Parque Kenedy",
+    "address" : "Av. Mariscal Oscar Benavides",
+    "phone" : "-",
+    "email" : "parques@miraflores.gob.pe",
+    "urlLogo": "http://unsplash.it/200",
+    "urlBanner": "http://unsplash.it/300/150",
+    "webpage" : "www.miraflores.gob.pe",
+    "geo":
+      {
+      "lat" : -12.121803,
+      "lng" : -77.030455
+      }
   },
   {
-    "address": "AV. PETIT THOUARS",
-    "name": "HACOWIN S.A.C. 4550",
-    "latLng": "-12.107817, -77.029943",
-    "phone": "956557035",
-    "email": "company@gmail.com",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
+    "name" : "Chinawok",
+    "address" : "Av. Jose Larco 439",
+    "phone" : "989042799",
+    "email" : "ventacorporativa@ngr.com.pe",
+    "urlLogo": "http://unsplash.it/200",
+    "urlBanner": "http://unsplash.it/300/150",
+    "webpage" : "http://www.chinawok.com.pe/",
+    "geo":
+      {
+      "lat" : -12.121760,
+      "lng" : -77.028937
+      }
   },
   {
-    "address": "CALL GENERAL SUAREZ",
-    "name": "PRODUCCIONES ACQUARIO S.R.LTDA. 409",
-    "latLng": "-12.117342, -77.026941",
-    "phone": "956557035",
-    "email": "company@gmail.com",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
+    "name" : "Pappas Grill Miraflores",
+    "address" : "Ernesto Diez Canseco 180",
+    "phone" : "(01) 6523650",
+    "email" : "contacto@pappas.pe",
+    "urlLogo": "http://unsplash.it/200",
+    "urlBanner": "http://unsplash.it/300/150",
+    "webpage" : "http://pappas.pe/",
+    "geo":
+      {
+      "lat" : -12.122409,
+      "lng" : -77.029312
+      }
   },
   {
-    "address": "MLCN DE LA RESERVA",
-    "name": "ASOCIACION CULTURAL DRAMA 610",
-    "latLng": "-12.131610, -77.030694",
-    "phone": "956557035",
-    "email": "company@gmail.com",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
+    "name" : "Discoteca Tequila Rock Miraflores",
+    "address" : "Ernesto Diez Canseco 146",
+    "phone" : "(01) 4454116",
+    "email" : "contacto@tequilarock.com.pe",
+    "urlLogo": "http://unsplash.it/200",
+    "urlBanner": "http://unsplash.it/300/150",
+    "webpage" : "http://www.tequilarock.com.pe/",
+    "geo":
+      {
+      "lat" : -12.122229,
+      "lng" : -77.029834
+      }
   },
   {
-    "address": "CALL MARTIR JOSE OLAYA",
-    "name": "NADAL PARODI JEAN PIERRE 139",
-    "latLng": "-12.119542, -77.030265",
-    "phone": "956557035",
-    "email": "company@gmail.com",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
+    "name" : "Tasca Bar",
+    "address" : "Ernesto Diez Canseco",
+    "phone" : "-",
+    "email" : "flyingdoghostels@gmail.com",
+    "urlLogo": "http://unsplash.it/200",
+    "urlBanner": "http://unsplash.it/300/150",
+    "webpage" : "http://www.flyingdogperu.com/",
+    "geo":
+      {
+      "lat" : -12.122038,
+      "lng" : -77.029895
+      }
   },
   {
-    "address": "PSJE PORTA",
-    "name": "PRODUCTORA COLLEGE S.A.C. 132",
-    "latLng": "-12.123187, -77.031267",
-    "phone": "956557035",
-    "email": "company@gmail.com",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
+    "name" : "Café de la Paz",
+    "address" : "Calle Lima 351",
+    "phone" : "(01) 241-6043",
+    "email" : "cafedelapaz@sctdosdemayo.com",
+    "urlLogo": "http://unsplash.it/200",
+    "urlBanner": "http://unsplash.it/300/150",
+    "webpage" : "http://www.cafedelapazperu.com/",
+    "geo":
+      {
+      "lat" : -12.121874,
+      "lng" : -77.030021
+      }
   },
   {
-    "address": "AV. GRAU",
-    "name": "INDIGO COMUNICACION DIGITAL S.A.C. 208",
-    "latLng": "-12.120308, -77.034766",
-    "phone": "956557035",
-    "email": "company@gmail.com",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
+    "name" : "Teatro Larco",
+    "address" : "Av. Jose Larco 1036",
+    "phone" : "-",
+    "email" : "-",
+    "urlLogo": "http://unsplash.it/200",
+    "urlBanner": "http://unsplash.it/300/150",
+    "webpage" : "-",
+    "geo":
+      {
+      "lat" : -12.128121,
+      "lng" : -77.029887
+      }
   },
   {
-    "address": "AV. JOSE PARDO",
-    "name": "PENTARAMA S.A. 121",
-    "latLng": "-12.120308, -77.034766",
-    "phone": "956557035",
-    "email": "company@gmail.com",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
+    "name" : "Centro Cultural Ccoriwasi",
+    "address" : "Calle 2 de Mayo 142",
+    "phone" : "-",
+    "email" : "-",
+    "urlLogo": "http://unsplash.it/200",
+    "urlBanner": "http://unsplash.it/300/150",
+    "webpage" : "http://www.urp.edu.pe/ccoriwasi/",
+    "geo":
+      {
+      "lat" : -12.117697,
+      "lng" : -77.029528
+      }
   },
   {
-    "address": "AV. MCAL. OSCAR R. BENAVIDES",
-    "name": "CD-R VIDEO S.A.C. 550",
-    "latLng": "-12.124560, -77.027264",
-    "phone": "956557035",
-    "email": "company@gmail.com",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
+    "name" : "John Harriman Miraflores",
+    "address" : "Jr. Bellavista 531 / Malecon Balta 740",
+    "phone" : "(01) 6153636",
+    "email" : "-",
+    "urlLogo": "http://unsplash.it/200",
+    "urlBanner": "http://unsplash.it/300/150",
+    "webpage" : "http://centrocultural.britanico.edu.pe/",
+    "geo":
+      {
+      "lat" : -12.123255,
+      "lng" : -77.033047
+      }
   },
   {
-    "address": "AV. SANTA CRUZ",
-    "name": "CINEPLEX S.A. 816",
-    "latLng": "-12.110410, -77.037528",
-    "phone": "956557035",
-    "email": "company@gmail.com",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
+    "name" : "Teatro Julieta",
+    "address" : "Pasaje Porta 132",
+    "phone" : "(01) 4440135",
+    "email" : "teatro.julieta.33@facebook.com",
+    "urlLogo": "http://unsplash.it/200",
+    "urlBanner": "http://unsplash.it/300/150",
+    "webpage" : "https://www.facebook.com/pages/Teatro-Julieta/201926309849606",
+    "geo":
+      {
+      "lat" : -12.122741,
+      "lng" : -77.030775
+      }
   },
   {
-    "address": "CALL FRANCIA",
-    "name": "FAMA ESTUDIO S.A. 779",
-    "latLng": "-12.121980, -77.038786",
-    "phone": "956557035",
-    "email": "company@gmail.com",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
+    "name" : "Teatro Británico",
+    "address" : "Calle Bellavista 527",
+    "phone" : "(01) 6153636",
+    "email" : "-",
+    "urlLogo": "http://unsplash.it/200",
+    "urlBanner": "http://unsplash.it/300/150",
+    "webpage" : "www.britanico.edu.pe",
+    "geo":
+      {
+      "lat" : -12.123280,
+      "lng" : -77.033021
+      }
   },
   {
-    "address": "CALL GENERAL VARGAS MACHUCA",
-    "name": "PERUANA DE CABLE TELEVISION S.A 610",
-    "latLng": "-12.122156, -77.018714",
-    "phone": "956557035",
-    "email": "company@gmail.com",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
+    "name" : "Club de Teatro de Lima",
+    "address" : "Av. 28 de Julio 183",
+    "phone" : "(01) 4457780",
+    "email" : "-",
+    "urlLogo": "http://unsplash.it/200",
+    "urlBanner": "http://unsplash.it/300/150",
+    "webpage" : "http://www.clubdeteatrodelima.com/",
+    "geo":
+      {
+      "lat" : -12.125629,
+      "lng" : -77.032426
+      }
   },
   {
-    "address": "MLCN DE LA RESERVA",
-    "name": "UVK MULTICINES LARCO S.A. 313",
-    "latLng": "-12.131610, -77.030694",
-    "phone": "956557035",
-    "email": "company@gmail.com",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
+    "name" : "Teatro Marsano",
+    "address" : "Av. General Suarez 409",
+    "phone" : "(01) 4457347",
+    "email" : "-",
+    "urlLogo": "http://unsplash.it/200",
+    "urlBanner": "http://unsplash.it/300/150",
+    "webpage" : "https://www.facebook.com/teatromarsanoperu",
+    "geo":
+      {
+      "lat" : -12.116755,
+      "lng" : -77.027529
+      }
   },
   {
-    "name" : "Chifa Fu Jou",
-    "address": "Av. José Pardo 399 5to. Piso ",
-    "phone" : "(51 - 1) 4444500 / (51 - 1) 4451635",
-    "email" : "chifafujou@yahoo.es",
-    "latLng": "-12.118966, -77.032295",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
+    "name" : "Museo Huaca Pucllana",
+    "address" : "Calle General Borgoño cuadra 8 S/n",
+    "phone" : "(01) 6177148",
+    "email" : "huacapucllana@miraflores.gob.pe",
+    "urlLogo": "http://unsplash.it/200",
+    "urlBanner": "http://unsplash.it/300/150",
+    "webpage" : "http://huacapucllanamiraflores.pe/",
+    "geo":
+      {
+      "lat" : -12.110362,
+      "lng" : -77.032961
+      }
   },
   {
-    "name" : "China Wok",
-    "address": "Av. Larco 439 ",
-    "phone" : "(51 - 1) 2260940",
-    "email" : "chifafujou@yahoo.es",
-    "latLng": "-12.121758, -77.028937",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
+    "name" : "Museo Amano",
+    "address" : "Calle Retiro 160",
+    "phone" : "(01) 441-2909",
+    "email" : "museo@fundacionmuseoamano.org.pe",
+    "urlLogo": "http://unsplash.it/200",
+    "urlBanner": "http://unsplash.it/300/150",
+    "webpage" : "www.fundacionmuseoamano.org.pe",
+    "geo":
+      {
+      "lat" : -12.114093,
+      "lng" : -77.040868
+      }
   },
   {
-    "name" : "Madame Tusan",
-    "address": "Avenida Santa Cruz, 859 ",
-    "phone" : "(51 - 1) 5055090",
-    "email" : "chifafujou@yahoo.es",
-    "latLng": "-12.111468, -77.037656",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
+    "name" : "Fundación Euroidiomas",
+    "address" : "Calle Libertad 130",
+    "phone" : "(01) 2155593",
+    "email" : "-",
+    "urlLogo": "http://unsplash.it/200",
+    "urlBanner": "http://unsplash.it/300/150",
+    "webpage" : "http://www.fundacioneuroidiomas.com/",
+    "geo":
+      {
+      "lat" : -12.119437,
+      "lng" : -77.032914
+      }
   },
   {
-    "name" : "Pak Fok",
-    "address": "Malecón de la Reserva N° 610 ",
-    "phone" : "(51 - 1) 2411333",
-    "email" : "pakfok@yahoo.com",
-    "latLng": "-12.131610, -77.030694",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
+    "name" : "Centro cultural Alianza Francesa",
+    "address" : "Av. Arequipa 4595",
+    "phone" : "(01) 6108000",
+    "email" : " informes@alianzafrancesa.org.pe",
+    "urlLogo": "http://unsplash.it/200",
+    "urlBanner": "http://unsplash.it/300/150",
+    "webpage" : "http://cultural.alianzafrancesa.org.pe/",
+    "geo":
+      {
+      "lat" : -12.111373,
+      "lng" : -77.030002
+      }
   },
   {
-    "name" : "Oriental Wa Lok",
-    "address": "Av angamos Oeste 700 ",
-    "phone" : "(51 - 1) 4471329",
-    "email" : "walok@speddy.com.pe",
-    "latLng": "-12.114015, -77.035683",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
+    "name" : "Parque reducto N° 2",
+    "address" : "Ramon Ribeyro 490",
+    "phone" : "(01) 6177279",
+    "email" : "-",
+    "urlLogo": "http://unsplash.it/200",
+    "urlBanner": "http://unsplash.it/300/150",
+    "webpage" : "www.miraflores.gob.pe",
+    "geo":
+      {
+      "lat" : -12.125928,
+      "lng" : -77.022991
+      }
   },
   {
-    "name" : "Kam Mey My",
-    "address": "Av. Benavides N° 1545 ",
-    "phone" : "(51 - 1) 4470667",
-    "email" : "walok@speddy.com.pe",
-    "latLng": "-12.126260, -77.016948",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
+    "name" : "Casa Museo Ricardo Palma",
+    "address" : "Calle General Suarez 189",
+    "phone" : "(01) 6177114",
+    "email" : "-",
+    "urlLogo": "http://unsplash.it/200",
+    "urlBanner": "http://unsplash.it/300/150",
+    "webpage" : "www.miraflores.gob.pe",
+    "geo":
+      {
+      "lat" : -12.118457,
+      "lng" : -77.027588
+      }
   },
   {
-    "name" : "Kuo Wha",
-    "address": "Av. Paseo de La República N.5046 ",
-    "phone" : "(51 - 1) 4459482",
-    "email" : "informes@kuowha.com",
-    "latLng": "-12.115538, -77.026538",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
+    "name" : "Museo de Sitio Andrés Avelino Cáceres",
+    "address" : "Ramon Ribeyro 401",
+    "phone" : "(01) 6177279",
+    "email" : "-",
+    "urlLogo": "http://unsplash.it/200",
+    "urlBanner": "http://unsplash.it/300/150",
+    "webpage" : "www.miraflores.gob.pe",
+    "geo":
+      {
+      "lat" : -12.125928,
+      "lng" : -77.022991
+      }
   },
   {
-    "name" : "Ono Sushi Bar",
-    "address": "Vasco Núñez de Balboa 747 ",
-    "phone" : "(51 - 1) 243 4899",
-    "email" : "informes@kuowha.com",
-    "latLng": "-12.129627, -77.024167",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
+    "name" : "Iglesia Matriz Virgen Milagrosa",
+    "address" : "Parque Central",
+    "phone" : "-",
+    "email" : "-",
+    "urlLogo": "http://unsplash.it/200",
+    "urlBanner": "http://unsplash.it/300/150",
+    "webpage" : "-",
+    "geo":
+      {
+      "lat" : -12.121593,
+      "lng" : -77.029716
+      }
   },
   {
-    "name" : "Chifa Express",
-    "address": "Av. 2 de mayo 618 ",
-    "phone" : "(51 - 1) 4444673",
-    "email" : "informes@kuowha.com",
-    "latLng": "-12.117808, -77.035092",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
-  },
-  {
-    "name" : "Fu Jou chinese restaurant",
-    "address": "Jose Pardo 399 ",
-    "phone" : "(51 - 1) 4444500",
-    "email" : "informes@kuowha.com",
-    "latLng": "-12.118983, -77.032297",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
-  },
-  {
-    "name" : "Sentori Sushi",
-    "address": "Av. Grau 192 ",
-    "phone" : "(51 - 1) 6522888",
-    "email" : "albatroz@terra.com.pe",
-    "latLng": "-12.120060, -77.034897",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
-  },
-  {
-    "name" : "Bembos",
-    "address": "Av. Benavides 1821  /Av. Larco 461  / Av. Santa Cruz 808 ",
-    "phone" : "(51 - 1) 4456919 / (51 - 1) 942418911",
-    "email" : "albatroz@terra.com.pe",
-    "latLng": "-12.120065, -77.034899",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
-  },
-  {
-    "name" : "Super Rueda",
-    "address": "Av. José Pardo 1224 ",
-    "phone" : "(51 - 1) 4456919 / (51 - 1) 942418911",
-    "email" : "cdurand.superrueda@gmail.com",
-    "latLng": "-12.118786, -77.041329",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
-  },
-  {
-    "name" : "Dulcinea",
-    "address": "Calle Torre Tagle 301 ",
-    "phone" : "(51 - 1) 241 5684",
-    "email" : "pedidos@dulcineaperu.com",
-    "latLng": "-12.116949, -77.038014",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
-  },
-  {
-    "name" : "La Lucha Sangucheria",
-    "address": "Av Diagonal 308 ",
-    "phone" : "(51 - 1) 447 5452",
-    "email" : "pedidos@dulcineaperu.com",
-    "latLng": "-12.121026, -77.030334",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
-  },
-  {
-    "name" : "Angus Meat Market",
-    "address": "Republica de Panama 6396 ",
-    "phone" : "(51 - 1) 4478982/ (51 - 1) 447 8983",
-    "email" : "milenio-import@terra.com.pe",
-    "latLng": "-12.128458, -77.018043",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
-  },
-  {
-    "name" : "La Vaca Loca Rosenda",
-    "address": "Malecón de la Reserva 610 ",
-    "phone" : "(51 - 1) 4456427 / (51 - 1) 2423979",
-    "email" : "info@lavacalocarosenda.com",
-    "latLng": "-12.131610, -77.030694",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
-  },
-  {
-    "name" : "Carnal",
-    "address": "Calle Elías Aguirre 698, Miraflores ",
-    "phone" : "(51 - 1) 2433089/ (51 - 1) 243-3088.",
-    "email" : "hania@carnalprime.com",
-    "latLng": "-12.113505, -77.034731",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
-  },
-  {
-    "name" : "Cuarto y Mitad",
-    "address": "Comandante Espinar 798 ",
-    "phone" : "(51 - 1) 4465229/ (51 - 1) 2425801",
-    "email" : "cuartoymitad@restaurantcuartoymitad.com",
-    "latLng": "-12.111223, -77.036976",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
-  },
-  {
-    "name" : "El Parrillon",
-    "address": "Plazam Gourmet Local 108 Larcomar ",
-    "phone" : "(51 - 1)2423979",
-    "email" : "reservas@elparrillon.com",
-    "latLng": "-12.131610, -77.030694",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
-  },
-  {
-    "name" : "Friday's",
-    "address": "Av. Santa Cruz 824 ",
-    "phone" : "(51 - 1) 2214080",
-    "email" : "reservas@elparrillon.com",
-    "latLng": "-12.110659, -77.037320",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
-  },
-  {
-    "name" : "Tonny Romas",
-    "address": "Larcomar ",
-    "phone" : "(51 - 1) 24209986",
-    "email" : "larco@tonyromas.com.pe",
-    "latLng": "-12.131610, -77.030694",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
-  },
-  {
-    "name" : "La Tranquera",
-    "address": "Av Pardo 285 ",
-    "phone" : "(51 - 1) 4454523",
-    "email" : "latranquera@peru.com",
-    "latLng": "-12.119263, -77.031711",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
-  },
-  {
-    "name" : "Pappa S",
-    "address": "Calle Diez Canseco nº180 Miraflores ",
-    "phone" : "(51 - 1) 6523651",
-    "email" : "administracion@pappas.com.pe",
-    "latLng": "-12.122386, -77.029368",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
-  },
-  {
-    "name" : "El Parrillon de Pablo Profumo",
-    "address": "Av. 28 de Julio 795-799 ",
-    "phone" : "(51 - 1) 4453061",
-    "email" : "elparrilloncaja@gmail.com",
-    "latLng": "-12.128128, -77.026106",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
-  },
-  {
-    "name" : "Wallqa",
-    "address": "Av. Vasco Nuñez de Balboa 530 ",
-    "phone" : "(51 - 1) 2429619",
-    "email" : "elparrilloncaja@gmail.com",
-    "latLng": "-12.131277, -77.025619",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
-  },
-  {
-    "name" : "Café Colombia en Perú",
-    "address": "Av. La Paz 646, Interior 19, Pasaje El Suche ",
-    "phone" : "(51 - 1) 2430285",
-    "email" : "reservas@cafecolombiaperu.com",
-    "latLng": "-12.123789, -77.027377",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
-  },
-  {
-    "name" : "El 10",
-    "address": "Av. Petit Thouars 4599 ",
-    "phone" : "(51 - 1) 7176610",
-    "email" : "miraflores@el10.pe",
-    "latLng": "-12.108558, -77.029524",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
-  },
-  {
-    "name" : "Rasson",
-    "address": "Calle General Mendiburu 1007 ",
-    "phone" : "(51 - 1) 4411279",
-    "email" : "miraflores@el10.pe",
-    "latLng": "-12.111633, -77.048593",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
-  },
-  {
-    "name" : "Panchita Parrilla Peruana",
-    "address": "Av. 2 de Mayo 298 ",
-    "phone" : "(51 - 1) 2425957",
-    "email" : "panchita@panchita.com.pe",
-    "latLng": "-12.117917, -77.031340",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
-  },
-  {
-    "name" : "Embarcadero 41",
-    "address": "Av. La Marr 456 ",
-    "phone" : "(51 - 1) 2425957",
-    "email" : "marketing@embarcadero41.com",
-    "latLng": "-12.115583, -77.043145",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
-  },
-  {
-    "name" : "El Kapallac",
-    "address": "Av. Reducto 1505 ",
-    "phone" : "(51 - 1) 4444149",
-    "latLng": "-12.133714, -77.023163",
-    "email" : "elkapallaqrestaurant@hotmail.com",
-    "webpage": "http://company.com",
-    "urlLogo": "http://company.com/logo.png",
-    "typeEntity": "Restaurante"
-  },
-{
-  "name" : "Fiesta Restaurant Gourmet", 
-  "address" : "Av. Reuducto 1278",
-  "phone" : "(51 - 1) 2429009",
-  "latLng" : "-12.131359, -77.023440",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "La Vista", 
-  "address" : "Av. Malecón de la Reserva N° 615",
-  "phone" : "(51 - 1) 2177000",
-  "latLng" : "-12.131689, -77.029380",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "Saqra", 
-  "address" : "Av. La paz 646 - Interior 11",
-  "phone" : "(51 - 1) 650 8884",
-  "latLng" : "-12.124389, -77.027024",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "Montecristo", 
-  "address" : "Comandante Espinar 398",
-  "phone" : "(51 - 1) 4463983",
-  "latLng" : "-12.126402, -77.026971",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "La Rosa Náutica", 
-  "address" : "Espigón 4 Circuito de Playas",
-  "phone" : "(51 - 1) 445 0149",
-  "latLng" : "-12.131049, -77.035878",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "Astrid & Gastón", 
-  "address" : "Av. Paz Soldán 290, San Isidro",
-  "phone" : "(51 - 1) 2424422/ (51 - 1) 2425387",
-  "latLng" : "-12.096547, -77.034901",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "Manifiesto", 
-  "address" : "Calle Independencia con Av. Jose Pardo",
-  "phone" : "(51 - 1) 5460201",
-  "latLng" : "-12.118984, -77.032472",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "Scena", 
-  "address" : "Calle Francisco de Paula Camino N° 280",
-  "phone" : "(51 - 1) 2418184",
-  "latLng" : "-12.120614, -77.032392",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "El Mingao", 
-  "address" : "Av. Benavides 1057",
-  "phone" : "(51 - 1) 4441882",
-  "latLng" : "-12.125567, -77.021385",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "Donde Mario", 
-  "address" : "Av. Grau 151",
-  "phone" : "(51 - 1) 242-7433",
-  "latLng" : "-12.119673, -77.034782",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "Corrientes 348", 
-  "address" : "Av. Benavides 2123",
-  "phone" : "(51 - 1) 272-1128",
-  "latLng" : "-12.127288, -77.010617",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "Arugula", 
-  "address" : "Calle San Fernando 320",
-  "phone" : "(51 - 1) 4440132",
-  "latLng" : "-12.131790, -77.026956",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "Zimmerman", 
-  "address" : "Calle Vasco Nuñez De Balboa 326",
-  "phone" : "(51 - 1) 4441308",
-  "latLng" : "-12.111817, -76.990553",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "Los Bachiche", 
-  "address" : "Av La Paz 1025",
-  "phone" : "(51 - 1) 2219283",
-  "latLng" : "-12.128206, -77.026753",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "Mi causa", 
-  "address" : "Av. La Mar 814",
-  "phone" : "(51 - 1) 2226258",
-  "latLng" : "-12.113037, -77.045579",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "Las Tejas", 
-  "address" : "Av. Ernesto Diez Canseco 334",
-  "phone" : "(51 - 1) 4444360",
-  "latLng" : "-12.122370, -77.027412",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "La Traviata", 
-  "address" : "Av. Reducto 1236",
-  "phone" : "(51 - 1) 4216360",
-  "latLng" : "-12.130993, -77.023463",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "Donatello", 
-  "address" : "Av. José Pardo 1010",
-  "phone" : "(51 - 1) 4458047",
-  "latLng" : "-12.118830, -77.039172",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "Ristorante IL Postino", 
-  "address" : "Calle Narciso de la Colina 401",
-  "phone" : "(51 - 1) 4458856",
-  "latLng" : "-12.118248, -77.026617",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "El Señorio de Sulco", 
-  "address" : "Malecón Cisneros 1470",
-  "phone" : "(51 - 1) 4410183",
-  "latLng" : "-12.119685, -77.043935",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "El Rocoto", 
-  "address" : "Av. Federico Villareal 360",
-  "phone" : "(51 - 1) 4483048",
-  "latLng" : "-12.112309, -77.047405",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "Morsi & Sorsi Ristorante Italiano", 
-  "address" : "Av. Aviación 118",
-  "phone" : "(51 - 1) 4440731",
-  "latLng" : "-12.061351, -77.012732",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "Tony Roma's", 
-  "address" : "Santa Cruz 914",
-  "phone" : "(51 - 1) 4411692",
-  "latLng" : "-12.112558, -77.038681",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "Morelia", 
-  "address" : "Calle Atahualpa 196",
-  "phone" : "(51 - 1) 2427730",
-  "latLng" : "-12.118152, -77.030205",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "La eñe", 
-  "address" : "Av. Dos de Mayo 220",
-  "phone" : "(51 - 1) 4474807 / 241-8546",
-  "latLng" : "-12.117910, -77.030623",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "Mantra Indian Cuisine", 
-  "address" : "Av. Alfredo Benavides 1761",
-  "phone" : "(51 - 1) 4450127",
-  "latLng" : "-12.126753, -77.013984",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "Il Forno Trattoria", 
-  "address" : "Av. Benavides 2917",
-  "phone" : "(51 - 1) 2722525",
-  "latLng" : "-12.128310, -77.004536",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "Sinfonía", 
-  "address" : "Av. Benavides 300",
-  "phone" : "(51 - 1) 6100700",
-  "latLng" : "-12.124389, -77.030324",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "Papyrus Restaurant", 
-  "address" : "Mnauel Bonilla 185",
-  "phone" : "(51 - 1) 4469414",
-  "latLng" : "-12.119843, -77.027024",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "Harry s Fuente de Soda", 
-  "address" : "Av. Aramburú 116",
-  "phone" : "(51 - 1) 4216459",
-  "latLng" : "-12.103630, -77.031271",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "Restaurante Fanny Conroy", 
-  "address" : "Av. La Mar 1209",
-  "phone" : "(51 - 1) 717-6411",
-  "latLng" : "-12.113107, -77.045390",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "Vivaldino", 
-  "address" : "Malecón de la Reserva 610, 2do Nivel del C.C. Larcomar",
-  "phone" : "(51 - 1) 446-3859",
-  "latLng" : "-12.131610, -77.030694",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "La Plazita", 
-  "address" : "San Fernando 380 (esquina con Vasco Nuñez de Balboa)",
-  "phone" : "(51 - 1) 9811 12267",
-  "latLng" : "-12.132318, -77.026923",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "Crepes & Waffles", 
-  "address" : "Vasco Nuñez de Balboa 757",
-  "phone" : "(51 - 1) 651 2945",
-  "latLng" : "-12.129652, -77.024266",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "Café de la Paz", 
-  "address" : "Calle Lima 351",
-  "phone" : "(51 - 1) 2418073",
-  "latLng" : "-12.123384, -77.028709",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "Nathano's Café", 
-  "address" : "Enrique Palacios 900",
-  "phone" : "(51 - 1) 4469344",
-  "latLng" : "-12.117004, -77.038317",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "Kumas Café", 
-  "address" : "Calle Berlín 413",
-  "phone" : "(51 - 1) 2557227",
-  "latLng" : "-12.120301, -77.034070",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "Amaz", 
-  "address" : "Avenida La Paz 1079",
-  "phone" : "(51 - 1) 2219393",
-  "latLng" : "-12.128696, -77.026546",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "Factoria 1075", 
-  "address" : "Calle general de Mendiburu 1075",
-  "phone" : "(51 - 1) 221-4006",
-  "latLng" : "-12.111133, -77.048996",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "El Patio de Mendiburu", 
-  "address" : "General Mendiburu 793",
-  "phone" : "(51 - 1) 2214114",
-  "latLng" : "-12.113387, -77.046949",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "Rigoletto", 
-  "address" : "Calle Colon 161",
-  "phone" : "(51 - 1) 444-3046",
-  "latLng" : "-12.125063, -77.030417",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "Fettuccini", 
-  "address" : "Calle Ignacio Merino 546",
-  "phone" : "(51 - 1) 422-7283",
-  "latLng" : "-12.112947, -77.045307",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "La Nacional", 
-  "address" : "Av. La Mar 1254",
-  "phone" : "(51 - 1) 4412030",
-  "latLng" : "-12.078061, -77.068208",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "El Bodegón", 
-  "address" : "Calle Tarapacá 197",
-  "phone" : "(51 - 1) 4456222",
-  "latLng" : "-12.112786, -77.031171",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "Rodrigo", 
-  "address" : "Francisco de Paula Camino 231",
-  "phone" : "(51 - 1) 4460985",
-  "latLng" : "-12.120755, -77.032879",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "Arugula", 
-  "address" : "San Fernando 320",
-  "phone" : "(51 - 1) 4440132",
-  "latLng" : "-12.131783, -77.026960",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "Barcelona 360", 
-  "address" : "Calle Alcanfores 699",
-  "phone" : "(51 - 1) 4450852",
-  "latLng" : "-12.126590, -77.027920",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "Maki Sushi", 
-  "address" : "Av. La Paz 646, Pasaje El Suche 20-21",
-  "phone" : "(51 - 1) 7253844",
-  "latLng" : "-12.126402, -77.026968",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "Magma Sushi Lounge", 
-  "address" : "San Martin 512",
-  "phone" : "(51 - 1) 2426715",
-  "latLng" : "-12.126126, -77.029316",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "Mr. Sushi", 
-  "address" : "Av. Comandante Espinar 320",
-  "phone" : "(51 - 1) 4368282",
-  "latLng" : "-12.116642, -77.036760",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "Ache", 
-  "address" : "Av. La Paz 1055",
-  "phone" : "(51 - 1) 2219315",
-  "latLng" : "-12.128605, -77.026584",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "Maido", 
-  "address" : "San Martín 399",
-  "phone" : "(51 - 1) 4442568",
-  "latLng" : "-12.125404, -77.030589",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-},
-{
-  "name" : "Sukha", 
-  "address" : "Dos de Mayo 694",
-  "phone" : "(51 - 1) 7193763",
-  "latLng" : "-12.117823, -77.035661",
-  "email" : "elkapallaqrestaurant@hotmail.com",
-  "webpage": "http://company.com",
-  "urlLogo": "http://company.com/logo.png",
-  "typeEntity": "Restaurante"
-}
-
+    "name" : "Centro Cultural ICPNA",
+    "address" : "Av. Angamos Oeste 120",
+    "phone" : "(01) 7067000",
+    "email" : "-",
+    "urlLogo": "http://unsplash.it/200",
+    "urlBanner": "http://unsplash.it/300/150",
+    "webpage" : "http://cultural.icpna.edu.pe/",
+    "geo":
+      {
+      "lat" : -12.113547,
+      "lng" : -77.030253
+      }
+  }
 ]
