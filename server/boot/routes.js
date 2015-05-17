@@ -44,7 +44,7 @@ module.exports = function(app) {
     var category = req.body.category;
     var lat = req.body.lat;
     var lng = req.body.lng;
-    var geo = new GeoPoint({lat: lat, lng: lng});
+    var geo = new require('loopback').GeoPoint({lat: lat, lng: lng});
     
     Entity.create({
       name : name,
